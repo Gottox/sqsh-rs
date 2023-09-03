@@ -1,0 +1,12 @@
+#include <sqsh_archive_private.h>
+#include <sqsh_data_private.h>
+#include <sqsh_directory_private.h>
+#include <sqsh_extract_private.h>
+#include <sqsh_file_private.h>
+#include <sqsh_mapper_private.h>
+#include <sqsh_metablock_private.h>
+#include <sqsh_reader_private.h>
+#include <sqsh_table_private.h>
+#include <sqsh_thread_private.h>
+#include <sqsh_tree_private.h>
+#include <sqsh_xattr_private.h>

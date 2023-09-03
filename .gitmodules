@@ -1,0 +1,3 @@
+[submodule "libsqsh"]
+	path = libsqsh
+	url = https://github.com/Gottox/libsqsh.git
